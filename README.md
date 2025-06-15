@@ -2,22 +2,6 @@
 
 > A lightweight, responsive web interface for the Sofindex cBot conversational AI platform.
 
----
-
-## 🔍 Table of Contents
-
-1. [About](#about)  
-2. [Features](#features)  
-3. [Tech Stack](#tech-stack)  
-4. [Getting Started](#getting-started)  
-   - [Prerequisites](#prerequisites)  
-   - [Installation](#installation)  
-   - [Configuration](#configuration)  
-5. [Usage](#usage)  
-6. [Deployment](#deployment)  
-7. [Contributing](#contributing)  
-8. [License](#license)  
-9. [Contact & Support](#contact--support)  
 
 ---
 
@@ -41,26 +25,12 @@ This repository contains the web-client for **cBot**, Sofindex’s intelligent c
 
 ## 🛠 Tech Stack
 
-- **Frontend**: React (with Hooks) + TypeScript  
-- **Styling**: Tailwind CSS / CSS Modules  
-- **State Management**: Redux Toolkit (chat slices, UI slices)  
-- **Real-time**: Socket.IO (WebSocket transport)  
-- **Build**: Vite  
-- **Testing**: Jest + React Testing Library  
+- **Frontend**: Flutter Web
+- **Service AI**: GPT API
 - **Lint & Format**: ESLint + Prettier  
 
 ---
 
 ## 🚀 Getting Started
 
-### Prerequisites
-
-- Node.js v14 or higher  
-- npm (v6+) or Yarn v1.22+  
-
-### Installation
-
-1. **Clone the repo**  
-   ```bash
-   git clone https://github.com/your-org/cbot-frontend.git
-   cd cbot-frontend
+You can view the bot and use it by clicking: https://cbot.sofindex.com
