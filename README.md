@@ -1,36 +1,65 @@
-# cBot – Sofindex Chatbot Frontend
+<div id="top" class="">
 
-> A lightweight, responsive web interface for the Sofindex cBot conversational AI platform.
+<div align="center" class="text-center">
+# CBOT  
+*Transform Conversations, Empower Innovation Instantly*
 
 
----
+*Built with the tools and technologies:*
 
-## 📝 About
-
-This repository contains the web-client for **cBot**, Sofindex’s intelligent chatbot platform. It provides a polished, mobile-friendly UI for end users to interact with the underlying NLP engine and business-logic services.
-
----
-
-## ✨ Features
-
-- **Real-time chat** with streaming responses  
-- **Rich messages**: text, images, quick-reply buttons  
-- **Multi-language support** (configurable via locale files)  
-- **Conversation history** persisted in browser storage  
-- **Customizable themes** and branding  
-- **Easy integration** with 3rd-party APIs (CRM, ticketing, analytics)  
-- **Offline fallback**: queue messages when disconnected  
+![JSON](https://img.shields.io/badge/JSON-000000.svg?style=flat&logo=JSON&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000.svg?style=flat&logo=Markdown&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138.svg?style=flat&logo=Swift&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=flat&logo=Gradle&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2.svg?style=flat&logo=Dart&logoColor=white)
+![XML](https://img.shields.io/badge/XML-005FAD.svg?style=flat&logo=XML&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?style=flat&logo=Kotlin&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-CB171E.svg?style=flat&logo=YAML&logoColor=white)
+</div>
 
 ---
 
-## 🛠 Tech Stack
+## Table of Contents
 
-- **Frontend**: Flutter Web
-- **Service AI**: GPT API
-- **Lint & Format**: ESLint + Prettier  
+- [Overview](#overview)  
+- [Getting Started](#getting-started)  
+  - [Prerequisites](#prerequisites)  
+  - [Installation](#installation)  
+  - [Usage](#usage)  
+  - [Testing](#testing)  
 
 ---
 
-## 🚀 Getting Started
+## Overview
 
-You can view the bot and use it by clicking: https://cbot.sofindex.com
+CBOT is an innovative Flutter-based platform designed to deliver voice-enabled conversational AI experiences across web and mobile devices. It integrates speech recognition, AI-powered responses, and real-time messaging to create dynamic user interactions. Built with a focus on security, code quality, and modularity, CBOT supports seamless deployment on Android, iOS, and web environments.
+
+**Why CBOT?**
+
+This project empowers developers to craft intelligent voice interfaces with ease. The core features include:
+
+- 🧩 **🎙️ Voice Interaction:** Leverages speech recognition for natural user engagement.  
+- 🚀 **🌐 Cross-Platform:** Supports web, Android, and iOS for broad accessibility.  
+- 🔒 **🔑 Secure Secrets Management:** Handles sensitive data securely via environment variables.  
+- ⚡ **💬 Real-Time Messaging:** Facilitates instant, multimedia-rich conversations.  
+- 🎨 **🖌️ Custom Theming:** Ensures UI consistency with centralized theming and styling.  
+- 🛠️ **📏 Code Quality:** Enforces best practices with static analysis and linting configurations.  
+
+---
+
+## Getting Started
+
+### Prerequisites
+
+This project requires the following dependencies:
+
+- **Programming Language:** Dart  
+- **Package Manager:** Pub, Gradle  
+
+### Installation
+
+Build CBOT from the source and install dependencies:
+
+1. **Clone the repository:**
+   ```sh
+   git clone https://github.com/anasbayoumy/CBOT
