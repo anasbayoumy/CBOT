@@ -4,6 +4,10 @@
 # CBOT  
 *Transform Conversations, Empower Innovation Instantly*
 
+![last-commit](https://img.shields.io/github/last-commit/anasbayoumy/CBOT?style=flat&logo=git&logoColor=white&color=0080ff)
+![repo-top-language](https://img.shields.io/github/languages/top/anasbayoumy/CBOT?style=flat&color=0080ff)
+![repo-language-count](https://img.shields.io/github/languages/count/anasbayoumy/CBOT?style=flat&color=0080ff)
+
 
 *Built with the tools and technologies:*
 
